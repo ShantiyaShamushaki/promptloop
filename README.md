@@ -31,7 +31,7 @@ CSV + Markdown -> validation & prompt build -> Playwright -> wait for response
 
 1. Clone the repository and navigate into the project folder:
 ```bash
-   git clone [https://github.com/YOUR_USERNAME/promptloop.git](https://github.com/ShantiyaShamushaki/promptloop.git)
+   git clone [https://github.com/ShantiyaShamushaki/promptloop.git](https://github.com/ShantiyaShamushaki/promptloop.git)
    cd promptloop
 ```
 2. Create and activate a virtual environment:
