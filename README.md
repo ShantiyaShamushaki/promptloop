@@ -7,6 +7,14 @@ Provide a CSV of inputs and a Markdown prompt with `{variables}`; PromptLoop fil
 CSV + Markdown -> validation & prompt build -> Playwright -> wait for response
 -> extract -> save output & state
 ```
+
+## 🚀 Demo / Execution Preview
+
+<p align="center">
+  <img src="assets/demo.gif" alt="PromptLoop Demo" width="100%"/>
+</p>
+
+
 ## Features
 
 - **Automated Browser Management**: Automatically launches Google Chrome with remote debugging and an isolated profile using your `.env` configuration—no manual terminal commands required.
